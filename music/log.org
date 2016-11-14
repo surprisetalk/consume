@@ -1,0 +1,27 @@
+
+* OVERVIEW
+
+** TODOS
+
+- [ ] make a script to merge spotify albums
+- [ ] merge old itunes library
+- [ ] symlink this file to a global notes dir
+  
+
+* LOG
+
+** MASTERPIECE
+
+** GREAT
+
+** GOOD
+
+** FAIR
+
+** POOR
+
+
+* DECK
+
+
+* RESEARCH
