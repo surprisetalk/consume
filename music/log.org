@@ -18,12 +18,43 @@
 
 ** FAIR
 
+*** MUX MOOL :: PLANET HIGH SCHOOL
+[2016-11-14 Mon]
+- chill beats
+- great samples
+- the drum textures are on point
+- the synths are cool, but not overwhelming
+- the drum rhythms are sick when they pick up
+- refreshingly messy
+- forgettable melodies
+  
+*** SWEET VALLEY :: STAY CALM
+[2016-11-14 Mon]
+- cool time signature intro
+- crazy textures
+- not very emotive
+- sounds don't blend that well
+- no dynamics
+- eclectic af
+  
 ** POOR
+
+*** PHILTRE :: SCENE #2
+[2016-11-14 Mon]
+- slow & uninteresting
+- low production value
+- little melodic variety
 
 
 * DECK
 
-** PC MUSIC :: PC MUSIC VOL 2
+*** PC MUSIC :: PC MUSIC VOL 2
 
 
 * RESEARCH
+
+- [ ] world 
+  - [ ] classical & modern asian
+  - [ ] classical & modern indian
+- [ ] organ
+- [ ] classical (+ blog post)
