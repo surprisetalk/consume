@@ -13,3 +13,4 @@ See `log.org` for media log.
 - TODO: use IFTTT (or a cron) to add new date headers
 - TODO: use IFTTT to sync with pocket
 
+See `music/library.org` for album ratings and reviews.
