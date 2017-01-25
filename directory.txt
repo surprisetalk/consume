@@ -3,32 +3,22 @@
 ├── comics
 ├── directory.txt
 ├── films
-│   ├── A Fistful of Dollars (1964).mp4
-│   ├── Akira (2016).mkv
-│   ├── Ikiru (1952).mp4
-│   └── The 400 Blows (1959).mkv
 ├── images
 │   ├── 4chan
 │   │   └── weapon_to_surpass_metal_gear.jpg
 │   ├── cage_1.jpg
 │   ├── space_cadet.jpg
 │   └── sup-dawg-i-herd-u-hate-that-youre-a-meme.jpg
+├── log.org
+├── masterpieces.md
 ├── music
-│   ├── log.org
+│   ├── library.org
 │   └── spotify_albums.sh
 ├── podcasts
+├── queue.org
+├── readme.md
 ├── shows
-│   └── Stranger Things
-│       ├── Cover.jpg
-│       ├── Stranger.Things.S01E01.Chapter.One.The.Vanishing.Of.Will.Byers.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E02.Chapter.Two.The.Weirdo.On.Maple.Street.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E03.Chapter.Three.Holly.Jolly.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E04.Chapter.Four.The.Body.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E05.Chapter.Five.The.Flea.And.The.Acrobat.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E06.Chapter.Six.The.Monster.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E07.Chapter.Seven.The.Bathtub.720p.WebRip.x264-[MULVAcoded].mkv
-│       ├── Stranger.Things.S01E08.Chapter.Eight.The.Upside.Down.720p.WebRip.x264-[MULVAcoded].mkv
-│       └── Stranger.Things.Season.1.Complete.720p.WebRip.EN-SUB.x264-[MULVAcoded].nfo
-└── videos
+├── videos
+└── web
 
-10 directories, 21 files
+10 directories, 11 files
