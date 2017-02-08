@@ -3,9 +3,11 @@
 
 This repository holds my media metadata.
 
-See `directory.txt` for a media map.
+See `directory.txt` for my media map.
 
-See `queue.org` for my media stream.
+See `queue.org` for my future media.
+
+See `stream.org` for my subscriptions/searches.
 
 See `masterpieces.md` for recommendations.
 

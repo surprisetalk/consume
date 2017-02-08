@@ -1,0 +1,23 @@
+
+* STREAMS
+
+<queue|cron|ifttt> -> <gobby> -> <clara> -> <dropbox_upload>
+
+** SUBSCRIPTIONS
+*** TODO sputnikmusic's best
+*** TODO xkcd
+*** TODO hn
+*** TODO youtube subs
+*** TODO reddit
+**** TODO user/surprisetalk/saved
+**** TODO r/youtubehaiku
+
+** SCOUR
+*** TODO research/journals
+*** TODO discogs deals
+*** TODO ebay deals
+*** TODO craigslist odditites
+**** TODO tech junk
+**** TODO music junk
+**** TODO oddjobs / collabs
+
